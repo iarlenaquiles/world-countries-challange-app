@@ -31,5 +31,3 @@ yarn dev
 ```
 
 The app will running on 4000 port
-
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=World%20Countries%20Api&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fiarlenaquiles%2Fworld-countries-challange-api%2Fmain%2FInsomnia_2023-07-02.json)
